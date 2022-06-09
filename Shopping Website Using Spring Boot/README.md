@@ -1,4 +1,4 @@
-# E-Commerce-Spring-Boot
+# ShoppingApp-Spring-Boot
 
 This a web application project developing the e-commerce website to sell the electrical devices.
 We use the Spring Boot to build the back-end part, and the React for the front-end part.
@@ -24,4 +24,4 @@ We have implemented the following functions:
     
     3. They can add, delete, search, revise consumers' orders.
     
-The frontend part of this project is: https://github.com/eherozhao/E-Commerce-React-Front-end
+
